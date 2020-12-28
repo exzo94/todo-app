@@ -30,7 +30,7 @@ app.get('/', function(req, res) {
     </head>
     <body>
       <div class="container">
-        <h1 class="display-4 text-center py-1">To-Do App</h1>
+        <h1 class="display-4 text-center py-1">ToDo App</h1>
         
         <div class="jumbotron p-3 shadow-sm">
           <form id="create-form" action="/create-item" method="POST">
